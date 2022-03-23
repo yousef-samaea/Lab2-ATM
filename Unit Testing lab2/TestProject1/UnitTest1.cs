@@ -15,8 +15,22 @@ namespace TestProject1
         [Fact]
         public void TestViewBalance2()
         {
-            Assert.Equal(2000, Program.ViewBalance());
+            Assert.Equal(Program.Balance, Program.ViewBalance());
         }
+
+        [Fact]
+        public void TestDeposit()
+        {
+            Assert.Equal(2100, Program.Deposit(200));
+        }
+
+        [Fact]
+        public void TestDeposit2()
+        {
+            Assert.Equal(2000, Program.Deposit(-500));
+        }
+
+
 
 
         [Fact]
@@ -26,10 +40,12 @@ namespace TestProject1
         }
 
         [Fact]
-        public void TestDeposit()
+        public void TestWithDraw2()
         {
-            Assert.Equal(2100, Program.Deposit(100));
+            Assert.Equal(2000, Program.WithDraw(-100));
         }
+
+
 
 
 
