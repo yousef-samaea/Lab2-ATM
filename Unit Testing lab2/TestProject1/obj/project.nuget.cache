@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XE2pFayqc40F2b1qkqnuUCyhgwhBhM8Jdb9eNwtaWaL5yquIs+aiaXU62Sw2FfNd+qrRcFMv8Ah/ERC+gLZsA==",
+  "dgSpecHash": "iO7I43d+rN2gTJJZ607SzcYLxzkg7rScYo4crtQaoitKY0lhc0amkLluxZ+YU0z24aT4rm9Y44kHKYmAxwJ7YQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\youse\\Desktop\\programs\\Lab2-ATM\\Unit Testing lab2\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\youse\\Desktop\\Lab2-ATM\\Unit Testing lab2\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\youse\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\youse\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

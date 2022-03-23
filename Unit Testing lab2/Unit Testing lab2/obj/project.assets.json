@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\youse\\Desktop\\programs\\Lab2-ATM\\Unit Testing lab2\\Unit Testing lab2\\Unit Testing lab2.csproj",
+      "projectUniqueName": "C:\\Users\\youse\\Desktop\\Lab2-ATM\\Unit Testing lab2\\Unit Testing lab2\\Unit Testing lab2.csproj",
       "projectName": "Unit Testing lab2",
-      "projectPath": "C:\\Users\\youse\\Desktop\\programs\\Lab2-ATM\\Unit Testing lab2\\Unit Testing lab2\\Unit Testing lab2.csproj",
+      "projectPath": "C:\\Users\\youse\\Desktop\\Lab2-ATM\\Unit Testing lab2\\Unit Testing lab2\\Unit Testing lab2.csproj",
       "packagesPath": "C:\\Users\\youse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\youse\\Desktop\\programs\\Lab2-ATM\\Unit Testing lab2\\Unit Testing lab2\\obj\\",
+      "outputPath": "C:\\Users\\youse\\Desktop\\Lab2-ATM\\Unit Testing lab2\\Unit Testing lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\youse\\AppData\\Roaming\\NuGet\\NuGet.Config",

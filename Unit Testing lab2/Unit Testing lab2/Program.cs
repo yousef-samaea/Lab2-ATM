@@ -30,8 +30,7 @@ namespace Unit_Testing_lab2
             else {
                 Balance -= input;
                 Console.WriteLine("the new Balance is "+ Balance);
-                return Balance;
-                
+                return Balance; 
             }
         }
         public static decimal Deposit(decimal input)
@@ -41,8 +40,7 @@ namespace Unit_Testing_lab2
                 Console.WriteLine("you cant Deposit a negative value");
                 return Balance;
             }
-            else
-            {
+            else{
                 Balance += input;
                 Console.WriteLine("the new Balance is "+Balance);
                 return Balance;
